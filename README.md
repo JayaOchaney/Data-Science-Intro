@@ -1,5 +1,4 @@
-#  What is Data Science (DS)
-## DS is nothing but Making Sense of Data
+#  What is Data Science (DS)--It's nothing but Making Sense of DATA
 
 ------------
 

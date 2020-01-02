@@ -23,5 +23,3 @@
 https://github.com/JayaOchaney/Data-Science-Intro/blob/master/Images/images-DS.png
 
 
-Roses are $\color{red}{\text{beautiful red}}$, 
-violets are $\color{blue}{\text{lovely blue}}$.

@@ -19,3 +19,6 @@
 | Where  information comes from?  |
 | What it represents?  |
 | How it can be turned into  a Valuable  Resource?  |
+
+
+https://github.com/JayaOchaney/Data-Science-Intro/blob/master/Images/images-DS.png

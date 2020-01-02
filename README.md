@@ -1,8 +1,8 @@
 # Data-Science-Intro
-Introduction to Data Science 
+##Introduction to Data Science 
 
 
-|  What is DATA |
+|  What is DATA??? |
 | :------------ |
 | Data is a raw ingredient  from which statistics is created.   |
 |   eg  :   |
